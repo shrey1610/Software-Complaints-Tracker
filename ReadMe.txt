@@ -24,7 +24,7 @@ Programming Language: Python
 Data Storage: JSON files
 
 Usage
-To use the software, run the main.py script:
+To use the software, run the main.py script.
 
 User Interaction
 - Users can choose to sign up or log in.
