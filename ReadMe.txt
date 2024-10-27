@@ -7,7 +7,7 @@ Table of Contents
 - Usage
 - Project Structure
 - JSON File Format
-- Contributing
+- Project Associates
 
 Project Description
 Software Complaints Tracker is a Python-based application that streamlines the process of tracking and managing software-related complaints. The application allows both users and administrators to interact with the system, register complaints, monitor their status, and manage user details efficiently.
